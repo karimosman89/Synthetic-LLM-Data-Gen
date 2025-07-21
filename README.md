@@ -13,7 +13,7 @@ A project focused on generating high-quality synthetic data to train and improve
 
 1.  **Clone this repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Synthetic-LLM-Data-Gen.git
+    git clone https://github.com/karimosman89/Synthetic-LLM-Data-Gen.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
